@@ -9,4 +9,4 @@ project:
 site:
   template: book-theme
     options:
-      logo: https://www.therkildsenlab.org/uploads/1/4/5/5/145548022/published/new-logo-smaller.png
+      logo: _build/TherkildsenLogo.png
