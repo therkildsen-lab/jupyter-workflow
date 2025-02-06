@@ -1,0 +1,14 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: 0a796942-13f6-5f8f-882c-1b7ce519caa2 # randomize a number or two
+  title: GIVE ME A TITLE
+  description: PROJECT OR EXPERIMENT DESCRIPTION
+  authors: YOUR NAME
+  github: username/reponame
+  #banner: https://www.therkildsenlab.org/uploads/1/4/5/5/145548022/published/new-logo-smaller.png?1683074961
+  # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
+site:
+  template: book-theme
+    options:
+      logo: https://www.therkildsenlab.org/uploads/1/4/5/5/145548022/published/new-logo-smaller.png?1683074961
