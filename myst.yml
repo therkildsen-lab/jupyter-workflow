@@ -6,9 +6,11 @@ project:
   description: PROJECT OR EXPERIMENT DESCRIPTION
   authors: YOUR NAME
   github: therkildsen-lab/jupyter-workflow #change this to the repository you're working out of
+  #toc: # set this manually (like it is here) to ignore the README.md when building the site
+  #  - file: example.ipynb
 site:
   template: book-theme
   options:
     favicon: https://www.therkildsenlab.org/uploads/1/4/5/5/145548022/published/new-logo-smaller.png
     logo: https://www.therkildsenlab.org/uploads/1/4/5/5/145548022/published/new-logo-smaller.png
-    exclude_patterns: [README.md]
+
