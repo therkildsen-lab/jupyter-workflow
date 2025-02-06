@@ -5,7 +5,7 @@ project:
   title: GIVE ME A TITLE
   description: PROJECT OR EXPERIMENT DESCRIPTION
   authors: YOUR NAME
-  github: username/reponame
+  github: therkildsen-lab/jupyter-workflow #change this to the repository you're working out of
 site:
   template: book-theme
   options:
